@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/kair4k/shed-releases/releases/download/v1.2.0/Shed.apk",
-  "sha256": "f0533072d759e7941cef7f38ebb5e520369fbfa612882f1fecf8831be0607da6",
-  "notes": "Новая адаптивная иконка, обновлённые карточки пар, прогресс занятий и перемен, виброотклик и встроенные обновления."
+  "versionCode": 4,
+  "versionName": "1.2.1",
+  "apkUrl": "https://github.com/kair4k/shed-releases/releases/download/v1.2.1/Shed.apk",
+  "sha256": "8ff03086de23a8afcc06bd8a07b1cffd9311d4a429c69a11cb917b273550f037",
+  "notes": "Новая адаптивная иконка, обновлённые карточки пар, прогресс занятий и перемен, виброотклик и встроенные обновления. Загрузку теперь можно скрыть и продолжить пользоваться расписанием."
 }
